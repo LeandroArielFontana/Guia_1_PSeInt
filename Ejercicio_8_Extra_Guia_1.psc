@@ -1,5 +1,4 @@
 Algoritmo Ejercicio_8
-	
 	Definir Nenes, Nenas, Ntotal Como Entero;
 	Definir PromV, PromN Como Real;
 	
@@ -7,12 +6,9 @@ Algoritmo Ejercicio_8
 	Leer Nenes, Nenas;
 	
 	Ntotal = Nenes + Nenas;
-	
 	PromN = (Nenas / Ntotal) * 100;
-	
 	PromV = (Nenes / Ntotal) * 100;
 	
 	Escribir "El promedio de Nenes en el curso es de: ", PromV, " %";
 	Escribir "El promedio de Nenas en el curso es de: ", PromN, " %";
-	
 FinAlgoritmo
